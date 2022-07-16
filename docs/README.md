@@ -1,2 +1,1 @@
-# Hello VuePress
-## 
+# Figuring out the resume world
